@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "welcome-digital-space",
+      "title": "Welcome to My Digital Space",
+      "date": "2024-01-15",
+      "excerpt": "Hey there! Welcome to my retro-styled digital homepage. This is where I share my thoughts on music, tech, and whatever else crosses my mind...",
+      "content": "Hey there! Welcome to my retro-styled digital homepage. This is where I share my thoughts on music, tech, and whatever else crosses my mind.\n\nI've always been fascinated by the aesthetic of old computers and the early days of the internet. There's something charming about the simplicity and functionality of those early interfaces. That's why I decided to build this site with a retro computer theme.\n\nHere you'll find updates about my music production, thoughts on technology, and whatever else I feel like sharing. The SoundCloud player on the left has my latest tracks, and you can connect with me through the various social links in the monitor.\n\nThanks for stopping by!",
+      "author": "Lil Deadass"
+    },
+    {
+      "id": "latest-music-production",
+      "title": "Latest Music Production",
+      "date": "2024-01-10",
+      "excerpt": "Just finished working on some new tracks. Check out the SoundCloud player on the left to hear what I've been cooking up...",
+      "content": "Just finished working on some new tracks. Check out the SoundCloud player on the left to hear what I've been cooking up.\n\nI've been experimenting with some new production techniques lately, trying to blend different genres and create something unique. The creative process has been really exciting, and I'm happy with how these tracks are turning out.\n\nMusic production has always been my passion, and I love sharing the journey with others. Each track tells a story, and I hope you can feel the energy and emotion I put into them.\n\nStay tuned for more updates and new releases coming soon!",
+      "author": "Lil Deadass"
+    },
+    {
+      "id": "building-this-site",
+      "title": "Building This Site",
+      "date": "2024-01-05",
+      "excerpt": "Decided to build this retro-styled homepage as a fun project. Love the old-school computer aesthetic...",
+      "content": "Decided to build this retro-styled homepage as a fun project. Love the old-school computer aesthetic.\n\nThe idea came to me while browsing some old computer forums and seeing screenshots of classic operating systems. There's something nostalgic and comforting about those interfaces that modern designs just can't capture.\n\nI wanted to create something that felt authentic to that era while still being functional and modern underneath. The fake window popups, the retro styling, and the overall layout all contribute to that classic computer feel.\n\nIt's been a fun challenge balancing the retro aesthetic with modern web standards. I'm constantly tweaking and improving it, so expect to see updates as I refine the design and add new features.\n\nHope you enjoy the throwback vibes!",
+      "author": "Lil Deadass"
+    }
+  ]
+} 

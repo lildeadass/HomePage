@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lil Deadass Homepage</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="main-layout">
+        <!-- Left Side - SoundCloud -->
+        <div class="left-panel">
+            <div class="panel-content">
+                <h2 class="panel-title">🎵 Music</h2>
+                <div class="soundcloud-container">
+                    <iframe 
+                        width="100%" 
+                        height="300" 
+                        scrolling="no" 
+                        frameborder="no" 
+                        allow="autoplay" 
+                        src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/lildeadass&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
+                    </iframe>
+                </div>
+            </div>
+        </div>
+
+        <!-- Center - Monitor & Keyboard -->
+        <div class="center-panel">
+            <div class="retro-setup">
+                <div class="monitor-container">
+                    <img src="assets/monitor.webp" alt="Retro Monitor" class="monitor-img">
+                    <div class="monitor-content">
+                        <h2>Connect with me</h2>
+                        <ul class="social-links">
+                            <li><a href="#" data-link="https://x.com/lildeadass">X/Twitter</a></li>
+                            <li><a href="#" data-link="https://github.com/lildeadass">GitHub</a></li>
+                            <li><a href="#" data-link="https://soundcloud.com/lildeadass">SoundCloud</a></li>
+                            <li><a href="#" data-link="https://reddit.com/glock_18">Reddit</a></li>
+                            <li><a href="#" data-link="https://instagram.com/e46haver">IG</a></li>
+                        </ul>
+                        <div class="fake-window" id="fakeWindow" style="display:none;">
+                            <div class="window-header">
+                                <span class="window-title" id="windowTitle">Social Link</span>
+                                <button class="window-close" id="windowClose">✕</button>
+                            </div>
+                            <div class="window-body">
+                                <p id="windowText"></p>
+                                <button id="windowOpen" class="window-open-btn">Open in new tab</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="keyboard-container">
+                    <img src="assets/keyboard.png" alt="Retro Keyboard" class="keyboard-img">
+                    <div class="key-overlay-container">
+                        <!-- Interactive key overlays will be positioned here by JS -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Right Side - Blog -->
+        <div class="right-panel">
+            <div class="panel-content">
+                <h2 class="panel-title">📝 Blog</h2>
+                <div class="blog-container" id="blogContainer">
+                    <p>Loading blog posts...</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html> 
